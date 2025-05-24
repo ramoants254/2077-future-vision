@@ -47,6 +47,7 @@ venv.bak/
 GITHUB_CHECKLIST.md
 GITHUB_UPLOAD_GUIDE.md
 PROJECT_POSTER_PROMPT.md
+PROJECT_OVERVIEW.md
 
 # Image files - only include selected showcase images
 showcase_images/*.png
